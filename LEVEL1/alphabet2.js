@@ -1,4 +1,4 @@
-// Liste l'alphabet en en fonction de l'argument donné
+// Liste l'alphabet en fonction de l'argument donné
 
 const alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p','q', 'r', 's', 't', 'u','v', 'w', 'x', 'y', 'z'];
 
