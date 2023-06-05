@@ -5,6 +5,6 @@ const alphabet = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm
 for (let i = 0; i < alphabet.length; i++) {
   process.stdout.write(`${alphabet[i]}`);
   if (alphabet[i] === 'z') {
-    process.stdout.write(`\n`);
+    console.log(`\n`);
   }
 };
